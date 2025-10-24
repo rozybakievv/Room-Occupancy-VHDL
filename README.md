@@ -42,4 +42,9 @@ settings64_CMC_central_license.csh` (in one line)
 
 6. Click on run synthesis then ok and when synthesis is complete, run implementation
 
+Synthesization:
+<img width="1920" height="1080" alt="synthesized" src="https://github.com/user-attachments/assets/7c05008a-a78d-476b-b5c7-2ef72a833e23" />
 
+Schematics (Implementation & RTL):
+[schematic_impl.pdf](https://github.com/user-attachments/files/23128954/schematic_impl.pdf)
+[schematic_rtl.pdf](https://github.com/user-attachments/files/23128955/schematic_rtl.pdf)
